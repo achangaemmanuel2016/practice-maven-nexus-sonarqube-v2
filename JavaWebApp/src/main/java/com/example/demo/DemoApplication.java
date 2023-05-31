@@ -12,6 +12,10 @@ public class DemoApplication {
 		string name = "ebot";
 
 		system.out.print(name);
+
+		Integer age = "20";
+		system.out.print(age + 5);
+
 	}
 
 }
