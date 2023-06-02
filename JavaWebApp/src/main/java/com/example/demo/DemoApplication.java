@@ -11,7 +11,7 @@ public class DemoApplication {
 
 		string name = "ebot";
 
-		system.out.print(name);
+		system.out.println(name);
 	}
 
 }
